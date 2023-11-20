@@ -599,10 +599,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     border:  1px solid #e5ebf2;
 }
 
-.portfolio-content {
-    padding-top: 100px;
-    justify-content: center;
-}
+.portfolio-content {padding-top: 100px;}
 
 /* ---- .item ---- */
 .isotope:after {
