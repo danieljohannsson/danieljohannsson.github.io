@@ -517,7 +517,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 
 .experience-time-responsive{display: none;}
 /*-------------------------------------
-        8. Profiles
+        8. Profiles (New skills)
 --------------------------------------*/
 .profiles {
     padding:  50px 0 100px;
@@ -599,7 +599,10 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     border:  1px solid #e5ebf2;
 }
 
-.portfolio-content {padding-top: 100px;}
+.portfolio-content {
+    padding-top: 100px;
+    justify-content: center;
+}
 
 /* ---- .item ---- */
 .isotope:after {
