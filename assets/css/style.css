@@ -119,7 +119,7 @@ nav.navbar.bootsnav {
 /*.navbar-brand*/
 .navbar-header a.navbar-brand,.navbar-header a.navbar-brand:hover,.navbar-header a.navbar-brand:focus {
     display: inline-block;
-    color: #29996b;
+    color: #4bd25f;
     font-size: 20px;
     font-weight: 600;
     padding: 33px 0px 57px;
@@ -139,7 +139,7 @@ nav.navbar.bootsnav ul.nav > li > a {
     transition: 0.3s linear;
 }
 nav.navbar.bootsnav ul.nav > li > a {padding: 35px 20px;}
-nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:focus,nav.navbar.bootsnav ul.nav > li.active>a{color: #29996b;}
+nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:focus,nav.navbar.bootsnav ul.nav > li.active>a{color: #4bd25f;}
 
 nav.navbar.bootsnav ul.nav > li.dropdown > a.dropdown-toggle:after {
     content: "";
@@ -149,7 +149,7 @@ nav.navbar.bootsnav ul.nav > li.dropdown span {
     margin-left: 15px;
 }
 .sticky-wrapper.is-sticky nav.navbar.bootsnav ul.nav > li > a {color:#6a708e;}
-.sticky-wrapper.is-sticky nav.navbar.bootsnav ul.nav > li > a:hover,.sticky-wrapper.is-sticky nav.navbar.bootsnav ul.nav > li > a:focus,.sticky-wrapper.is-sticky nav.navbar.bootsnav ul.nav > li.active>a{color: #29996b;}
+.sticky-wrapper.is-sticky nav.navbar.bootsnav ul.nav > li > a:hover,.sticky-wrapper.is-sticky nav.navbar.bootsnav ul.nav > li > a:focus,.sticky-wrapper.is-sticky nav.navbar.bootsnav ul.nav > li.active>a{color: #4bd25f;}
 /*.nav li*/
 
 
@@ -163,7 +163,7 @@ nav.navbar.bootsnav ul.nav > li.dropdown span {
     -webkit-box-shadow: inset 0 0 8px #000;
 }
 .menu-ui-design::-webkit-scrollbar-thumb {
-  background-color: #29996b;
+  background-color: #4bd25f;
 }
 /*.menu-ui-design*/
 
@@ -173,11 +173,11 @@ nav.navbar.bootsnav ul.nav > li.dropdown span {
 nav.navbar.bootsnav .navbar-toggle {
     position: relative;
     background-color: transparent;
-    border: 1px solid #29996b;
+    border: 1px solid #4bd25f;
     padding: 10px;
     top: 0;
 }
-nav.navbar.bootsnav .navbar-toggle i{color: #29996b;}
+nav.navbar.bootsnav .navbar-toggle i{color: #4bd25f;}
 /*.navbar-toggle */
 
 
@@ -213,7 +213,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #29996b;}
     text-transform: uppercase;
     line-height: 1.5;
 }
-.header-text h2 span {color: #29996b;}
+.header-text h2 span {color: #4bd25f;}
 .header-text p {
     color: #fff;
     font-size: 20px;
@@ -229,8 +229,8 @@ nav.navbar.bootsnav .navbar-toggle i{color: #29996b;}
     border-radius: 3px;
     text-transform: capitalize;
     color: #fff;
-    background: #29996b;
-    border:1px solid #29996b;
+    background: #4bd25f;
+    border:1px solid #4bd25f;
     box-shadow: 0 5px 20px rgba(0,0,0,.2);
     -webkit-transition: 0.3s linear; 
     -moz-transition: 0.3s linear; 
@@ -238,7 +238,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #29996b;}
     -o-transition: 0.3s linear; 
     transition: 0.3s linear;
 }
-.header-text a:hover{ box-shadow: 0 5px 20px rgba(0,0,0,.4);background:#29996b;border: 1px solid #29996b;}
+.header-text a:hover{ box-shadow: 0 5px 20px rgba(0,0,0,.4);background:#4bd25f;border: 1px solid #4bd25f;}
 /*.header-text-area*/
 
 /*-------------------------------------
@@ -352,7 +352,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #29996b;}
 }
 .timeline-horizontal-border i {
     font-size:  10px;
-    color: #29996b;
+    color: #4bd25f;
     margin-right:  5px;
 }
 span.single-timeline-horizontal {
@@ -386,7 +386,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 }
 .single-progress-txt h3 {
     width: 10%;
-    color: #29996b;
+    color: #4bd25f;
     position: relative;
     top: 6px;
     left: 20px;
@@ -406,7 +406,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     margin-bottom: 37px;
 }
 .progress-bar {
-   background: #29996b;
+   background: #4bd25f;
     border-radius: 3px;
    -webkit-transition: width 1.5s ease-in-out;
    -ms-transition: width 1.5s ease-in-out;
@@ -421,7 +421,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 .tooltip > .tooltip-inner {
    background-color: transparent;
    padding: 1px 5px;
-   color: #29996b;
+   color: #4bd25f;
    font-weight: 500;
    font-size: 12px;
    border-radius: 0;
@@ -480,7 +480,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 }
 
 .timeline-content span>i, .experience-time span>i {
-    color: #29996b;
+    color: #4bd25f;
     position: absolute;
     font-size: 10px;
     left: -14.5%;
@@ -565,10 +565,10 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     content: " ";
     width:100%;
     height: 100%;
-    background: #29996b;
-    background: -moz-linear-gradient(left, #29996b 0%, #29996b 100%);
-    background: -webkit-linear-gradient(left, #29996b 0%,#29996b 100%);
-    background: linear-gradient(to right, #29996b 0%,#29996b 100%);
+    background: #4bd25f;
+    background: -moz-linear-gradient(left, #4bd25f 0%, #4bd25f 100%);
+    background: -webkit-linear-gradient(left, #4bd25f 0%,#4bd25f 100%);
+    background: linear-gradient(to right, #4bd25f 0%,#4bd25f 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d92cf9', endColorstr='#b636ff',GradientType=1 );
     -webkit-transform:scale(0);
     -moz-transform:scale(0);
@@ -700,8 +700,8 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     height:50px;
     text-transform:capitalize;
     margin-top: 3px;
-    background: #29996b;
-    border: 1px solid #29996b;
+    background: #4bd25f;
+    border: 1px solid #4bd25f;
     cursor:pointer;
     box-shadow: 0 5px 20px rgba(0,0,0,.2);
      -webkit-transition: .5s; 
@@ -726,8 +726,8 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     
 }
 .single-contact-btn:hover{
-    background: #29996b;
-    border: 1px solid #29996b;
+    background: #4bd25f;
+    border: 1px solid #4bd25f;
     box-shadow: 0 5px 20px rgba(0,0,0,.2);
 }
 
@@ -778,7 +778,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     transition: .3s;
 }
 .hm-foot-icon ul li>a:hover{
-    color: #29996b;
+    color: #4bd25f;
 }/*hm-foot-icon*/
 
 .hm-footer-copyright p{
@@ -802,8 +802,8 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     font-size: 20px;
     cursor: pointer;
     color: #fff;
-    background:#29996b;
-	border:1px solid #29996b;
+    background:#4bd25f;
+	border:1px solid #4bd25f;
 	border-radius:50%;
 	-webkit-transition: .5s; 
 	-moz-transition:.5s; 
@@ -814,7 +814,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 }
 #scroll-Top  .return-to-top:hover {
     background:#fff;
-    color: #29996b;
+    color: #4bd25f;
 	border:1px solid #2cf97b
 }
 
