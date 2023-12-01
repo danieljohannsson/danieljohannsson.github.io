@@ -1,4 +1,2 @@
 # danieljohannsson.github.io
-# h1 heading
-## h2 heading
-### h3 heading
+Welcome to the repository of my website! The code can be found here and easily forked.
